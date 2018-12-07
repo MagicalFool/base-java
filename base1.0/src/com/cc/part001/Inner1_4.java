@@ -14,7 +14,7 @@ public class Inner1_4 {
       items[next++ ] = obj;
   }
 
-  private class  Selector implements Inner1_4_Interface{
+  protected class  Selector implements Inner1_4_Interface{
 
     private  int i = 0;
     @Override
