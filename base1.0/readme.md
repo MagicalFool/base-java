@@ -1,9 +1,11 @@
-#### part000
-- 1.1 Java hello world
-- 1.2 for/foreach/while/dowhile
-#### part001
+#### part000 
+- 0.1 Java hello world
+- 0.2 for/foreach/while/dowhile
+#### part001 内部类
 - 1.1 create inner class  创建内部类
 - 1.2 create inner class in no static  非静态方法创建内部类对象
 - 1.3 example use inner class 
-- 1.4 iterator  模拟迭代器
-#### part002
+- 1.4 iterator 模拟迭代器
+- 1.5 .new and .this
+#### part002 持有对象
+- 2.1 Test get object 
