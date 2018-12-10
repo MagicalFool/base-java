@@ -9,3 +9,6 @@
 - 1.5 .new and .this
 #### part002 持有对象
 - 2.1 Test get object 
+- 2.2 example add object
+- 2.3 example use set
+

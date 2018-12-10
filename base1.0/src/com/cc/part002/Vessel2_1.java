@@ -14,7 +14,11 @@ public class Vessel2_1 {
     }
     apples.add(new Orange());
     for (int j = 0; j<apples.size(); j++){
-      ((Apple)apples.get(j)).id();
+      try {
+        ((Apple)apples.get(j)).id();
+      }catch (Exception e){
+        e.getStackTrace();
+      }
     }
   }
 
