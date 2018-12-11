@@ -11,4 +11,6 @@
 - 2.1 Test get object 
 - 2.2 example add object
 - 2.3 example use set
-
+#### part003 异常处理
+- 3.1 create exception
+- 3.2 myself exception 自定义异常
