@@ -14,3 +14,9 @@
 #### part003 异常处理
 - 3.1 create exception
 - 3.2 myself exception 自定义异常
+- 3.3 exception to log 
+- 3.4 example six
+- 3.5 example seven 
+#### part004 IO操作
+- 4.1 create temp file 
+- 
